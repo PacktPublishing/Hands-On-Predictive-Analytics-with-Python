@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to Know the Author
-**Alvaro Fuentes**is a data scientist with more than 12 years of experience in analytical roles. He holds an M.S. in applied mathematics and an M.S. in quantitative economics. He worked for many years in the Central Bank of Guatemala as an economic analyst, building models for economic and financial data. He founded Quant Company to provide consulting and training services in data science topics and has been a consultant for many projects in fields such as business, education, medicine, and mass media, among others.
+**Alvaro Fuentes** is a data scientist with more than 12 years of experience in analytical roles. He holds an M.S. in applied mathematics and an M.S. in quantitative economics. He worked for many years in the Central Bank of Guatemala as an economic analyst, building models for economic and financial data. He founded Quant Company to provide consulting and training services in data science topics and has been a consultant for many projects in fields such as business, education, medicine, and mass media, among others.
 
 He is a big Python fan and has been using it routinely for five years to analyze data, build models, produce reports, make predictions, and build interactive applications that transform data into intelligence.
 
