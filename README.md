@@ -24,7 +24,18 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+
+### Installation
+To be able to run the code of the book without any problems, please do the following:
+1. Download the Anaconda distribution for your system, you can find the installers [here](https://www.anaconda.com)
+1. Once you have installed the Anaconda distribution, create a new Python 3.6 environment with the packages you will need.
+To create the environment (named `ho-pawp`, but you can use any other name you like) run the following command
+in the Anaconda Prompt terminal `conda create --name ho-pawp --file requirements.txt `
+
+For a quick guide on conda refer to the conda-cheatsheet.pdf in this repo.
+### Using the code files
+
+All of the code is organized into folders. Most of the code consists of Jupyter Notebooks. For example, Chapter02.
 
 The code will look like the following:
 ```
@@ -51,9 +62,11 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to Know the Author
-**Alvaro Fuentes** is a data scientist with more than 12 years of experience in analytical roles. He holds an M.S. in applied mathematics and an M.S. in quantitative economics. He worked for many years in the Central Bank of Guatemala as an economic analyst, building models for economic and financial data. He founded Quant Company to provide consulting and training services in data science topics and has been a consultant for many projects in fields such as business, education, medicine, and mass media, among others.
-
-He is a big Python fan and has been using it routinely for five years to analyze data, build models, produce reports, make predictions, and build interactive applications that transform data into intelligence.
+**Alvaro Fuentes** is a Senior Data Scientist with more than 13 years of experience in analytical roles.
+He holds an M.S. in applied mathematics and an M.S. in quantitative economics. He has been working for one of the top global
+management consulting firms solving analytical and AI problems in different industries like Banking, Telco, Mining and others.
+He worked for many years in the Central Bank of Guatemala as an economic analyst, building models for economic and financial data.
+He is a big Python fan and has been using it routinely for 5+ years to analyzing data and building and deploying analytical models that transform data into intelligence.
 
 
 ### Suggestions and Feedback
